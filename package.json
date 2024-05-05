@@ -1,0 +1,13 @@
+{
+    "name": "interactive-story",
+    "version": "1.0.0",
+    "description": "Interactive storytelling web application",
+    "main": "src/main.js",
+    "scripts": {
+      "start": "parcel public/index.html"
+    },
+    "devDependencies": {
+      "parcel-bundler": "^1.12.4"
+    }
+  }
+  
